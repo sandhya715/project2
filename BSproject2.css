@@ -1,0 +1,101 @@
+ *{
+    box-sizing: border-box;
+ }
+ */navbar */
+
+
+
+.text p{
+    font-size: 12px;
+}
+/* end of navbar */
+
+/* section1 */
+.banner{
+    background-color:cadetblue;
+    padding: 100px  0 !important;
+    background-size: cover;
+}
+.bn{
+    text-decoration: cadetblue;
+}
+/* end of section1 */
+
+/* section2 */
+.bn1{
+    text-decoration: cadetblue;}
+
+    .title{
+        text-align: left;
+    }
+    .pg{
+        text-align: left;
+    }
+    .tle{
+        text-align: center;
+    }
+    .pg2{
+        text-align: center;
+    }
+    #products{
+        background-color: cadetblue;
+      
+    }
+    .banner1{
+        background-color:black;
+        padding: 100px 0 !important;
+        background-size: cover;
+    }
+   
+    
+
+  
+   
+     .para{
+        font-size: 30px;
+     }
+
+
+   .txt{
+    font-size: 20px;
+   }
+/* section5 */
+   .myimg{
+    height: 30px;
+    width: 20px;
+    margin: 10px;
+    gap: 1rem;
+   }
+   .para2{
+    font-size: 15px;
+   }
+   /* end of section5 */
+
+.img{
+    margin: 15px;
+}
+
+.img1{
+    text-align: right;
+}
+.img1 img{
+    height: 400px;
+}
+.line{
+    background-color: aliceblue;
+    height: 2px;
+    width: 40%;
+}
+@media(max-width:992px){
+    .img1 {
+        text-align: center;
+    }
+    .tailor{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .line{
+        margin: auto;
+    }
+}
+
